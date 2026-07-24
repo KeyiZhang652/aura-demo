@@ -1,0 +1,14 @@
+{
+  "name": "AURA",
+  "short_name": "AURA",
+  "description": "Your scene, your people.",
+  "start_url": "/aura-demo/",
+  "scope": "/aura-demo/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0A0910",
+  "theme_color": "#0A0910",
+  "icons": [
+    { "src": "/aura-demo/icon-512.png", "sizes": "1024x1024", "type": "image/png", "purpose": "any" }
+  ]
+}
